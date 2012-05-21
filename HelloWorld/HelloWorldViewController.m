@@ -33,6 +33,7 @@
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
 {
+    // another random comment
     return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
 }
 
